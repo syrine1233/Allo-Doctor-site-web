@@ -1,0 +1,52 @@
+
+body{
+    color: #666666;
+    font-size: 14px ;
+    background: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+}
+div.col-lg-3 col-sm-3{
+    color: #666666;
+    font: 14px Poppins,sans-serif;
+    padding: 0px 15px;
+
+}
+div.box_main{    width: 100%;
+    height: 10px;
+    background-color: #ffffff;
+    height: auto;
+    padding: 20px;
+    box-shadow: 0px 0 30px 10px #f0f0f0;
+    margin-bottom: 20px;
+}
+h4.shirt_text{
+    width: 100%;
+    height: 25px;
+    font-size: 11px;
+    color: #30302e;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 5px;
+    position: relative;
+}
+
+h1.les-specialites{
+    color: #111111;
+    font: 40px Poppins,sans-serif;
+    padding:0px 0px 10px;
+    text-align: center;
+    padding-bottom: 45px;
+}
+div.container{
+    color: #666666;
+    font: 14px Poppins,sans-serif;
+    margin: 0px 100.5px;
+    padding: 0px 15px;
+}
+img{
+    
+        width: 200px;
+        height: 113.22px;
+        
+    
+}

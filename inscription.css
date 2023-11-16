@@ -1,0 +1,81 @@
+body {
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url(./close-up-doctor-front-bright-background_53419-4416.webp);
+  margin: 0;
+  }
+  
+  .container {
+    width:400px;
+    height:470px;
+    background:#e6e6e6;
+    border-radius:8px;
+    box-shadow:0 0 40px -10px #000;
+    margin:calc(50vh - 220px) auto;
+    padding:20px 30px;
+    max-width:calc(100vw - 40px);
+    box-sizing:border-box;
+    font-family:'Montserrat',sans-serif;
+    position:relative;
+  }
+  
+  
+  .signup {
+    width:400px;
+    height:600px;
+    background:#e6e6e6;
+    border-radius:23px;
+    box-shadow:0 0 40px -10px;
+    margin:calc(50vh - 220px) auto;
+    padding:20px 30px;
+    max-width:calc(100vw - 40px);
+    box-sizing:border-box;
+    font-family:'Montserrat',sans-serif;
+    position:relative;
+  
+    
+  }
+  
+  [type=text] {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    border: 0;
+    border-bottom: 1px solid rgba(0,0,0,.2);
+    height: 45px;
+    line-height: 45px;  
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: rgba(0,0,0,.4);
+    text-align: left;
+  }
+  
+  
+  [type=submit]{float:right;
+    padding:10px 12px;
+    margin:8px 0 0;
+    font-family:'Montserrat',sans-serif;
+    border:2px solid #78788c;
+    background:0;
+    color:#5a5a6e;
+    cursor:pointer;
+    transition:all .3s}
+    [type=submit]:hover{
+    background:#78788c;
+    color:#fff}
+  
+    [type='text']:focus {
+    outline: none;
+    border-color: #53CACE;
+  }
+  
+  h1 {
+    margin:10px 0;
+    padding-bottom:6px;
+    width:240px;
+    color:#78788c;
+    border-bottom:4px solid #78788c;
+  }
+  
+  
+  
+  
+  

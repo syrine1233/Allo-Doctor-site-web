@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.speci{
+  height: 100vh;
+  background-size: cover;
+  background-position: right;
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url(./health-still-life-with-copy-space_23-2148854034.webp);
+}
+.pic{
+  height: 100px;;
+  width:  100px;
+}
+.specialite{
+  width: 1130px;
+  max-width: 100%;
+  margin-left:100px ;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+
+h1{
+  font-size: 70px;
+  position: fixed;
+  bottom: 700;
+  right: 340;
+  color: #78788c;
+  border-bottom:4px solid #78788c;
+
+  
+
+}
+option{
+  color:white;
+  text-transform: capitalize;
+  
+}
+ select{
+  position: fixed;
+  bottom: 150;
+  right: 200;
+  background-color:transparent;
+  width: 700px;
+ }
+
+option:hover{
+color:rgb(0,191,255);
+  
+}
+ul{
+  list-style: none;
+  float: right;
+  display: flex;
+  margin-top: 20px;}
+
+.text h5{
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+span{
+  color: #4070f4;
+}
+.text p{
+  font-size: 14px;
+  line-height: 25px;
+  letter-spacing: 1px;
+  text-align: center;
+  
+}
+.data{
+  margin-top: 30px;
+  margin-left: 200px;
+}
+
